@@ -6,5 +6,6 @@
 6. **Przykłady**: Podaj przykłady użycia aplikacji lub kodu.
 7. **Testowanie**: Jeśli masz testy, dodaj instrukcje, jak je uruchomić.
 8. **Licencja**: Określ licencję, jaką nadajesz projektowi (np. MIT, GPL, Apache 2.0 itp.).
+9. Please be ready for lot of changes
 
 THIS PROJECT IS UNREADY. THIS IS DRAFT. I AM LAERNING ON IT.
